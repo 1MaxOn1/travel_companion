@@ -121,11 +121,11 @@ PoC-версия Travel Companion AI будет реализована как ч
 - Мониторинг времени ответа и ошибок.
 
 ## Диаграммы
-![C4 Context](docs/diagrams/c4_context.png)
-![C4 Container](docs/diagrams/c4_container.png)
-![C4 Component](docs/diagrams/c4_component.png)
-![Workflow](docs/diagrams/Workflow.png)
-![Data Flow](docs/diagrams/dataflow.png)
+![C4 Context](docs/diagrams/c4_context.svg)
+![C4 Container](docs/diagrams/c4_container.svg)
+![C4 Component](docs/diagrams/c4_component.svg)
+![Workflow](docs/diagrams/Workflow.svg)
+![Data Flow](docs/diagrams/dataflow.svg)
 
 ![Пример работы бота](images/screen1.png)
 ![Пример работы бота](images/screen2.png)
