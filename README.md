@@ -68,7 +68,7 @@ PoC-версия Travel Companion AI будет реализована как ч
   - [c4_container.svg](docs/diagrams/c4_container.svg) — контейнеры системы
   - [c4_component.svg](docs/diagrams/c4_component.svg) — компоненты ядра
   - [workflow.svg](docs/diagrams/Workflow.svg) — основной workflow выполнения запроса с ветками ошибок
-  - [dataflow.svg](docs/diagrams/dataflow.svg) — поток данных через систему
+  - [dataflow.svg](docs/diagrams/data_flow.svg) — поток данных через систему
 - [`specs/`](docs/specs/) – спецификации модулей:
   - `retriever.md` – поисковый инструмент (DuckDuckGo), ограничения, fallback.
   - `tools.md` – контракты, таймауты, обработка ошибок.
