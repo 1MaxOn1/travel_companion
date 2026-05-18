@@ -62,7 +62,7 @@ PoC-версия Travel Companion AI будет реализована как ч
 
 Полный системный дизайн, диаграммы и спецификации находятся в папке [`docs/`](docs/):
 
-- [`system-design.md`](docs/system-design.md) – ключевые архитектурные решения, модули, workflow, state/memory/context, retrieval‑контур, tool‑интеграции, failure modes и guardrails.
+- [`system-design.md`](docs/specs/system-design.md) – ключевые архитектурные решения, модули, workflow, state/memory/context, retrieval‑контур, tool‑интеграции, failure modes и guardrails.
 - [`diagrams/`](docs/diagrams/) – диаграммы на языке PlantUML + сгенерированные PNG:
   - [c4_context.svg](docs/diagrams/c4_context.svg) — контекстная диаграмма (C4 Context)
   - [c4_container.svg](docs/diagrams/c4_container.svg) — контейнеры системы
