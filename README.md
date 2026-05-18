@@ -70,12 +70,12 @@ PoC-версия Travel Companion AI будет реализована как ч
   - [workflow.svg](docs/diagrams/Workflow.svg) — основной workflow выполнения запроса с ветками ошибок
   - [dataflow.svg](docs/diagrams/data_flow.svg) — поток данных через систему
 - [`specs/`](docs/specs/) – спецификации модулей:
-  - `retriever.md` – поисковый инструмент (DuckDuckGo), ограничения, fallback.
-  - `tools.md` – контракты, таймауты, обработка ошибок.
-  - `memory.md` – сессионное состояние, бюджет контекста, политика памяти.
-  - `agent.md` – оркестрация, правила переходов, stop conditions, retry/fallback.
-  - `serving.md` – конфигурация, секреты, версии моделей.
-  - `observability.md` – метрики, логи, трейсы, проверки качества.
+   - [retriever.md](specs/retriever.md) – поисковый инструмент (DuckDuckGo), ограничения, fallback.
+   - [tools.md](specs/tools.md) – контракты, таймауты, обработка ошибок.
+   - [memory.md](specs/memory.md) – сессионное состояние, бюджет контекста, политика памяти.
+   - [agent.md](specs/agent.md) – оркестрация, правила переходов, stop conditions, retry/fallback.
+   - [serving.md](specs/serving.md) – конфигурация, секреты, версии моделей.
+   - [observability.md](specs/observability.md) – метрики, логи, трейсы, проверки качества.
 
 ## Ключевые архитектурные решения
 
