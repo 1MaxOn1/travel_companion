@@ -64,11 +64,11 @@ PoC-версия Travel Companion AI будет реализована как ч
 
 - [`system-design.md`](docs/system-design.md) – ключевые архитектурные решения, модули, workflow, state/memory/context, retrieval‑контур, tool‑интеграции, failure modes и guardrails.
 - [`diagrams/`](docs/diagrams/) – диаграммы на языке PlantUML + сгенерированные PNG:
-  - `c4_context.svg` — контекстная диаграмма (C4 Context)
-  - `c4_container.svg` — контейнеры системы
-  - `c4_component.svg` — компоненты ядра
-  - `workflow.svg` — основной workflow выполнения запроса с ветками ошибок
-  - `dataflow.svg` — поток данных через систему
+  - [c4_context.svg](docs/diagrams/c4_context.svg) — контекстная диаграмма (C4 Context)
+  - [c4_container.svg](docs/diagrams/c4_container.svg) — контейнеры системы
+  - [c4_component.svg](docs/diagrams/c4_component.svg) — компоненты ядра
+  - [workflow.svg](docs/diagrams/workflow.svg) — основной workflow выполнения запроса с ветками ошибок
+  - [dataflow.svg](docs/diagrams/dataflow.svg) — поток данных через систему
 - [`specs/`](docs/specs/) – спецификации модулей:
   - `retriever.md` – поисковый инструмент (DuckDuckGo), ограничения, fallback.
   - `tools.md` – контракты, таймауты, обработка ошибок.
